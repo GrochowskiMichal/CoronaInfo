@@ -16,6 +16,8 @@ Date of project creating: 29.05.2020
 
 Project language: Polish
 
+Due to the inactivity of the data on which it was based on, the project is mostly inactive. But still works.
+
 ## Technologies used
 * react-native
 * vanilla javascript
