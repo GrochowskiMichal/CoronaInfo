@@ -10,6 +10,22 @@ The project is a typical information application. It consists of many different 
 
 <b>The project is made for self-development purposes.</b>
 
+## General informations
+
+Date of project creating: 29.05.2020
+
+Project language: Polish
+
+## Technologies used
+* react-native
+* vanilla javascript
+* expo as compiling/preview service
+* photoshop for creating grahpics
+
+##  Internal specification
+The program is implemented with a structural paradigm. User
+interface is separated from the program's logic.
+
 ## Project construction specification
 react-native version: 0.61.4
 
