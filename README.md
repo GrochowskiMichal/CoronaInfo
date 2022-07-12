@@ -1,6 +1,6 @@
 # CORONA-INFO
 <img src="https://user-images.githubusercontent.com/40866831/178515383-afa9080f-4663-42cb-a89e-926605c33499.png" width="200" height="200" />
-Native application's project aimed at supporting the difficult global situation related to coronavirus.
+Native application project aimed at supporting the difficult global situation related to coronavirus.
 
 In the application you will find reliable, official information on the current situation related to the coronavirus pandemic. 
 You can learn how to take precautions and what to do in the event of suspected infection in yourself or your loved ones.
