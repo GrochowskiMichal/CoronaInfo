@@ -22,7 +22,9 @@ Due to the inactivity of the data on which it was based on, the project is mostl
 * react-native
 * vanilla javascript
 * expo as compiling/preview service
+* yarn as projectmanager
 * photoshop for creating grahpics
+
 
 ##  Internal specification
 The program is implemented with a structural paradigm. User
